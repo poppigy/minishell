@@ -1,0 +1,38 @@
+# Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.pch
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.out
+*.app
+
+# CLion configuration
+CMakeLists.txt
+cmake-build-debug
+.idea
+
+# Cache
+.DS_Store
+
+# Test files
+*.text
+*.txt
+*.sh
+*.test
+
+# Cases
+src/parser/test_commands
+todo
